@@ -1,6 +1,6 @@
 import React from 'react';
-import TodoInput from './Components/TodoInput';
-import TodoList from './Components/TodoList';
+import TodoInput from './components/TodoInput';
+import TodoList from './components/TodoList';
 
 
 const App = () => {
